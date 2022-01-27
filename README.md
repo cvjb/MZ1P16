@@ -1,6 +1,6 @@
 # MZ1P16
 Forth words to control the original SHARP MZ-1P16 connected to an SHARP MZ-800 vintage home computer.
-The words were written in MZ-FORTH back in 1999 on an original SHARP MZ-1P16 plotter connected to a SHARP MZ-821.
+The words were written in MZ-FORTH back in 1999 for an original SHARP MZ-1P16 plotter connected to a SHARP MZ-821.
 
 ## Disclaimer
 
