@@ -2,6 +2,8 @@
 Forth words to control the original SHARP MZ-1P16 connected to an SHARP MZ-800 vintage home computer.
 The words were written in MZ-FORTH back in 1999 for an original SHARP MZ-1P16 plotter connected to a SHARP MZ-821.
 
+I had added words that exist in MZ-FORHT but did not in ANS- or gforh at the time of writing the code. But I had never tested these in real life.
+
 ## Disclaimer
 
 * SHARP, MZ-800, MZ-1P16 are trademarks of SHARP Corporation (https://global.sharp/) or its affiliates.
